@@ -1,2 +1,2 @@
-# MicroChallange3-LAIA
-This is a first draft of collaborative machine learning and collective intelligence
+# LAIA-Raspi
+This code stack runs on a raspberry pi
