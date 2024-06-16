@@ -7,11 +7,11 @@ The Vector store build part is responsible for updating from our local database 
 ## Requirement: OpenAI KEY
 
 ## Vector Store
-<img width="789" alt="Screenshot 2024-06-16 at 22 18 13" src="https://github.com/marius-schairer/MicroChallange3-LAIA/assets/147055411/b3c5b2d9-bd98-4394-9fda-1ca7cc8b715e">
+<img width="895" alt="Screenshot 2024-06-16 at 22 21 32" src="https://github.com/marius-schairer/MicroChallange3-LAIA/assets/147055411/eaf1d2ca-1ced-4ab0-be22-0933c9bd493f">
 
 ## Input Processing
+<img width="840" alt="Screenshot 2024-06-16 at 22 22 24" src="https://github.com/marius-schairer/MicroChallange3-LAIA/assets/147055411/4e7088a2-7ddf-4a6f-ab10-447666425a8c">
 
-<img width="895" alt="Screenshot 2024-06-16 at 22 21 32" src="https://github.com/marius-schairer/MicroChallange3-LAIA/assets/147055411/eaf1d2ca-1ced-4ab0-be22-0933c9bd493f">
 
 
 
