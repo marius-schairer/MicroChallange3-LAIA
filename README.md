@@ -12,7 +12,7 @@ We managed to send an audio file from the raspberry pi to the server but not yet
 ### Merging database and CSV
 Langchain offers a function that made it possible to merge multiple data sources into one vectorstore.
 
-### Trade data volume
+### Handle data volume
 If the vectorstore becomes too full, the prompt becomes too long to be processed.
 
 ## Next steps:
