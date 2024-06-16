@@ -4,6 +4,17 @@ the main code consists of two blocks. building vector store and processing audio
 The Vector store build part is responsible for updating from our local database files and collected new coming data from our form
 <img width="4065" alt="Planning" src="https://github.com/marius-schairer/MicroChallange3-LAIA/assets/147055411/c57d8682-4dd6-48fc-bd51-887bae34ea0c">
 
+## Requirement: OpenAI KEY
+
+## Vector Store
+![image](https://github.com/marius-schairer/MicroChallange3-LAIA/assets/147055411/2b5680da-94d6-4f20-b430-74f367f80d2b)
+
+## Input Processing
+
+![image](https://github.com/marius-schairer/MicroChallange3-LAIA/assets/147055411/a21437eb-f637-464d-838b-389150fb05b5)
+
+
+
 ## Challenges we had:
 
 ### Formatting a file
