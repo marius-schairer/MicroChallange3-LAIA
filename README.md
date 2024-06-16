@@ -11,7 +11,7 @@ The Vector store build part is responsible for updating from our local database 
 
 ## Input Processing
 
-<img width="822" alt="Screenshot 2024-06-16 at 22 19 21" src="https://github.com/marius-schairer/MicroChallange3-LAIA/assets/147055411/450110bd-7679-4fff-84a7-03695ffe8ad6">
+<img width="895" alt="Screenshot 2024-06-16 at 22 21 32" src="https://github.com/marius-schairer/MicroChallange3-LAIA/assets/147055411/eaf1d2ca-1ced-4ab0-be22-0933c9bd493f">
 
 
 
